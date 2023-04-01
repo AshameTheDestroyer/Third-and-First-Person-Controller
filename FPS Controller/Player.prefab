@@ -155,10 +155,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 4054308089569191635}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a5bfda9454d5ccb41877627e44b28df1, type: 3}
+  m_Script: {fileID: 11500000, guid: c29526affc53eb64492f78ecb24cd17f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Orientation: {fileID: 4054308089473214280}
+  Orientation: {fileID: 0}
   MoveSpeed: 100
   GroundDrag: 2
   PlayerHeight: 2
@@ -167,7 +167,7 @@ MonoBehaviour:
   AirMultiplier: 0.4
   WhatIsGround:
     serializedVersion: 2
-    m_Bits: 64
+    m_Bits: 0
 --- !u!1 &4054308090549831432
 GameObject:
   m_ObjectHideFlags: 0
